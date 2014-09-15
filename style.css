@@ -1,0 +1,43 @@
+body {
+	background:url("Assets/stripes.png"), url("Assets/background.jpg"), #535A6A;
+	background-repeat: repeat-x, no-repeat;
+	font-size: 26px;
+	font-family: helvetica, arial, sans-serif;
+	color: #fff;
+	margin: 270px 200px;
+	font-weight: 200;
+	line-height: 32px;
+}
+
+h1 {
+	background: url("Assets/logo-taasky.png");
+	background-repeat: no-repeat;
+	display: block;
+	width: 147px;
+	height: 44px;
+
+	text-indent: 1000em;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+hr {
+	border-color: #fd6e6e;
+	margin: 0;
+	width: 40px;
+}
+
+a {
+	background: url("Assets/btn_store.png");
+	background-repeat: no-repeat;
+	display: block;
+	width: 246px;
+	height: 74px;
+	outline: none;
+
+	text-indent: 1000em;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+
